@@ -9,5 +9,7 @@
     <Grid>
         <CheckBox  Content="CheckBox" HorizontalAlignment="Left" Margin="210,159,0,0" VerticalAlignment="Top"/>
         <Button Width="100" Height="90"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="250,260,0,0" Stroke="Black" VerticalAlignment="Top" Width="100" RadiusY="10" RadiusX="10"/>
+
     </Grid>
 </Window>
