@@ -10,8 +10,10 @@
         <CheckBox  Content="CheckBox" HorizontalAlignment="Left" Margin="210,159,0,0" VerticalAlignment="Top"/>
         <Button Width="100" Height="20"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="138,51,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-
         <Button Width="100" Height="90"/>
-                    <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="361,325,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="361,325,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="529,107,0,0" VerticalAlignment="Top"/>
+      
+
     </Grid>
 </Window>
