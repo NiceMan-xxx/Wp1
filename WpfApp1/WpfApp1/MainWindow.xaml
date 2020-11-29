@@ -7,9 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-       
-
-
         <Label Content="1" HorizontalAlignment="Left" Margin="90,325,0,0" VerticalAlignment="Top"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="51" Margin="260,180,0,0" VerticalAlignment="Top" Width="131" RenderTransformOrigin="0.5,0.5" Opacity="0.5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.702" ScaleX="1.424"/>
+                    <SkewTransform AngleX="-45.376000000000005"/>
+                    <RotateTransform Angle="2.172000000000001"/>
+                    <TranslateTransform X="43.127" Y="-29.878"/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+
     </Grid>
 </Window>
