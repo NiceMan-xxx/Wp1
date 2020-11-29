@@ -9,5 +9,6 @@
     <Grid>
         <CheckBox  Content="CheckBox" HorizontalAlignment="Left" Margin="210,159,0,0" VerticalAlignment="Top"/>
         <Button Width="100" Height="90"/>
+                    <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="361,325,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
