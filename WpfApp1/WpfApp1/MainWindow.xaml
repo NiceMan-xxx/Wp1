@@ -21,5 +21,6 @@
         </Border>
         <Button Content="Button" HorizontalAlignment="Left" Margin="376,280,0,0" VerticalAlignment="Top" Width="75"/>
 
+  <button height=200 width/>
     </Grid>
 </Window>
