@@ -21,6 +21,6 @@
         </Border>
         <Button Content="Button" HorizontalAlignment="Left" Margin="376,280,0,0" VerticalAlignment="Top" Width="75"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="90,32,0,0"  Text="TextBox" VerticalAlignment="Top" Width="120" Opacity="0.3"/>
-
+        <Button Content="Button" HorizontalAlignment="Left" Margin="200,20,0,0" Width="75"/>
     </Grid>
 </Window>
