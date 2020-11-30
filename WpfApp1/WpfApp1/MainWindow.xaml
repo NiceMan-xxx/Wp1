@@ -21,6 +21,7 @@
         </Border>
         <Button Content="Button" HorizontalAlignment="Left" Margin="376,280,0,0" VerticalAlignment="Top" Width="75"/>
 
-       <Button Height="200" Width="50" Margin="232,158,510,61"/>
+       <Button Height="200" Width="50" Margin="232,158,510,61" Content="器"/>
+
     </Grid>
 </Window>
